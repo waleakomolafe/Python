@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=7YMWthE6RTY&t=4733s
+
+Git init - Turn a folder into a repogit 
+
+Git Config - Config information for all local Repo
+(git config --global user.name olawale enter
+git config --global user.email olawaleakomolafe1@test.com use vaild email 
+git config --list
+git add . to all all files to the staging area
+git commit will record a snaphot of the file in the version history -
+git commit -m "describe what you doing"
+git status to know the status of work or stage/progress
+git log allows you to track details
+gitk- for graphical rep of log info
+git branch or (branchName) to create a branch
+git checkout -b (branchName will create and swith the branch)
+git branch -l or -a - list branch
+git switch or checkout (branchName) to switch to the named branch
+Hjyfl
+
+touch is used to create a file e.g touch test6.txt
