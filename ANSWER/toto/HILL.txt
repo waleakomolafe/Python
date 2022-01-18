@@ -16,6 +16,5 @@ git branch or (branchName) to create a branch
 git checkout -b (branchName will create and swith the branch)
 git branch -l or -a - list branch
 git switch or checkout (branchName) to switch to the named branch
-Hjyfl
 
 touch is used to create a file e.g touch test6.txt
